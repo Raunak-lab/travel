@@ -44,7 +44,7 @@ const Footer = () => {
             </div>
 
             <div data-aos= 'fade-up' className="footerParagraph">
-            Originally from Latin, Lorem ipsum has no intelligible meaning. It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly used to form generic text in a file.
+            Travel helps you get the cheapest fare guarantee, experience great value at the lowest price. Instant notifications ensure current flight status, instant fare drops, amazing discounts, instant refunds and rebook options, price comparisons and many more interesting features.
 
             </div>
             <div data-aos= 'fade-up' className="footerSocials flex">

@@ -7,9 +7,9 @@
 }
 /* colors and styling */
 :root{
-    --primaryColor : hsl(199,100%,33%);
-    --secondaryColor:hsl(187,85%,43%);
-    --gradientColor:linear-gradient(to right,hsl(187,85%,43%),hsl(199,100%,33%));
+    --primaryColor : rgb(168, 0, 53);
+    --secondaryColor:rgb(203, 16, 162);
+    --gradientColor:linear-gradient(to right,rgb(203, 16, 119),rgb(194, 113, 169));
     --whiteColor:hsl(0,0%,100%);
     --blackColor:hsl(201,33%,16%);
     --textColor:hsl(240,4%,36%);
@@ -18,6 +18,10 @@
     --inputColor:rgb(239,239,239);
     --bodyColor:rgb(240,240,240);
     --cardBG:rgb(225,225,235);
+}
+
+html{
+    scroll-behavior: smooth;
 }
 
 a{
